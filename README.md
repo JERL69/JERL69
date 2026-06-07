@@ -21,7 +21,7 @@
 
 ## Proyectos Destacados 
 
-* Motor de Inteligencia Deportiva: Sistema de predicciones y estadisticas de futbol integrando APIs
+* Bot de busqueda de vuelos
 * Procesamiento de Imagenes con CUDA: Implementacion de algoritmos paralelos y HDR Tone-mapping
 * Forense Digital: Analisis de incidentes de seguridad y documentacion judicial
 * Patrones de Diseno: Implementacion de arquitecturas robustas (MVC, Factory) en sistemas de salud
