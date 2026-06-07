@@ -15,7 +15,7 @@
 
 ## Tecnologias conocidas 
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,cs,py,html,js,postgres,git,github,vscode,visualstudio,idea,eclipse,dotnet,windows,kali,ubuntu&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,cs,py,html,js,postgres,git,github,vscode,visualstudio,idea,eclipse,dotnet,kali,ubuntu&perline=9)](https://skillicons.dev)
 
 ---
 
